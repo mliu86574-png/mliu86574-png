@@ -1,4 +1,4 @@
-# Hi, I'm Michelle Liu 劉育彤 👋
+# Hi, I'm garlicguava 👋
 
 Finance professional in Hong Kong working where traditional markets meet digital assets. ACCA-qualified, with six years across a securities firm's valuation and clearing desk, a Fortune 500 treasury, and a digital-asset platform focused on tokenised gold.
 
@@ -23,4 +23,4 @@ Python (pandas, NumPy, SciPy, matplotlib) · SQL · Excel / VBA · Bloomberg · 
 
 ## Contact 联系
 
-mliu86574@gmail.com
+Open an issue on any of the repositories above. 如需联系，请在上面任一仓库提交 issue。
