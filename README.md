@@ -13,9 +13,9 @@ Finance professional in Hong Kong working where traditional markets meet digital
 
 | Project | What it shows |
 |---|---|
-| [**Tokenized Gold Tracker**](https://github.com/<your-username>/tokenized-gold-tracker) | Daily automated dashboard of gold-backed tokens from public data: market cap, share, turnover, XAU₮–PAXG spread, chain distribution. Python, GitHub Actions, GitHub Pages. 每日自动更新的黄金代币看板 |
-| [**Derivatives Valuation Toolkit**](https://github.com/<your-username>/derivatives-valuation-toolkit) | Tested Python library: Black-Scholes and Greeks, binomial and Monte Carlo cross-checks, forwards and FX hedging, swap curve bootstrapping and DV01. 衍生品估值工具包 |
-| [**HK Virtual Asset Regulation Notes**](https://github.com/<your-username>/hk-virtual-asset-regulation-notes) | Bilingual, sourced notes on Hong Kong's VATP, stablecoin, new VA licensing, tokenisation and gold-hub regimes. 香港虚拟资产监管双语笔记 |
+| [**Tokenized Gold Tracker**](https://github.com/mliu86574-png/tokenized-gold-tracker) | Daily automated dashboard of gold-backed tokens from public data: market cap, share, turnover, XAU₮–PAXG spread, chain distribution. Python, GitHub Actions, GitHub Pages. 每日自动更新的黄金代币看板 |
+| [**Derivatives Valuation Toolkit**](https://github.com/mliu86574-png/derivatives-valuation-toolkit) | Tested Python library: Black-Scholes and Greeks, binomial and Monte Carlo cross-checks, forwards and FX hedging, swap curve bootstrapping and DV01. 衍生品估值工具包 |
+| [**HK Virtual Asset Regulation Notes**](https://github.com/mliu86574-png/hk-virtual-asset-regulation-notes) | Bilingual, sourced notes on Hong Kong's VATP, stablecoin, new VA licensing, tokenisation and gold-hub regimes. 香港虚拟资产监管双语笔记 |
 
 ## Toolkit 工具
 
@@ -23,4 +23,4 @@ Python (pandas, NumPy, SciPy, matplotlib) · SQL · Excel / VBA · Bloomberg · 
 
 ## Contact 联系
 
-[LinkedIn](https://www.linkedin.com/in/<your-linkedin>) · mliu86574@gmail.com
+mliu86574@gmail.com
